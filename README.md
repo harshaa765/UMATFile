@@ -11,7 +11,7 @@ It demonstrates the numerical formulation and input preparation for crystal plas
 ## 📂 Repository Contents
 - **`MTech_Thesis.docx`** – Full M.Tech thesis document describing theory, formulation, and implementation.  
 - **`Input_file.inp`** – Example input file for running the code.
-- **'UMAT.for** - Main driver code.
+- **`UMAT.for`** - Main driver code.
 
 ---
 
